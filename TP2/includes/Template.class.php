@@ -5,7 +5,7 @@ class Template
     var $filename = '';
     var $content = '';
 
-    function __construct($filename='')
+    function Template($filename='')
     {
         $this->filename = $filename;
 
