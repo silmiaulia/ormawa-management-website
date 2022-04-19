@@ -9,7 +9,7 @@ class DB
     var $db_link = "";
     var $result = 0;
 
-    function __construct($db_host = '', $db_user = '', $db_pass = '', $db_name = '')
+    function DB($db_host = '', $db_user = '', $db_pass = '', $db_name = '')
     {
         $this->db_host = $db_host;
         $this->db_user = $db_user;
