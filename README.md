@@ -1,10 +1,5 @@
-# TP2DPBO2022
-
-> Saya Silmi Aulia Rohmah mengerjakan TP 2 DPBO 2022 C1 dalam mata kuliah DPBO untuk keberkahanNya 
-> maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin 
-
 ### Deskripsi Program 
-Pada TP2 ini dibuat sebuah website yang bisa menampilkan data dari suatu ormawa, yaitu data pengurusnya, divisi, dan bidang divisinya. Pada halaman utama ditampilkan card data dari setiap pengurus, serta ditambahkan halaman detail yang memiliki tombol edit serta delete. Pada halaman Divisi dan Bidang Divisi ditampilkan tabel serta form inputnya, dan terdapat proses CRUD pada keduanya. 
+Website ini dibuat untuk menampilkan data dari suatu ormawa, yaitu data pengurusnya, divisi, dan bidang divisinya. Pada halaman utama ditampilkan card data dari setiap pengurus, serta ditambahkan halaman detail yang memiliki tombol edit serta delete. Pada halaman Divisi dan Bidang Divisi ditampilkan tabel serta form input dengan fitur CRUD pada keduanya. 
 
 ### Hasil Program
 
